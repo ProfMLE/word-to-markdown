@@ -1,0 +1,69 @@
+1.1 - Dados e Informações
+Segundo O’Brien (2004) “dados são fatos ou observações crus, normalmente sobre fenômenos físicos ou transações de negócios”. Em outras palavras, um dado pode ser considerado qualquer coisa sobre a qual se tem algum interesse. A manipulação adequada de um dado deve sempre resultar em informação que pode servir nas tomadas de decisão. Em outras palavras, um dado é uma informação em estado bruto e a informação é o dado transformado de acordo com algum processamento para se obter o conhecimento, como é apresentado no esquema da figura 1.1.
+
+
+
+
+				          
+				          Dados	                       Entrada			
+
+
+
+				 
+
+                                                           Processos                        Processamento
+	
+
+
+
+                                     Informação
+						           Saída		
+
+							       
+
+
+                                  Conhecimento
+
+
+
+	Figura 1.1 - Manipulando dados para obter informação/conhecimento
+
+
+O esquema da figura 1.1 mostra as três fases de um processamento de dados: Entrada - Processamento - Saída. O objetivo final é obter a informação para se adquirir conhecimento e tomar as decisões mais corretas dentro de uma organização. O esquema da figura 1.2 mostra como as informações dentro de um Sistema de Informação (SI) dependem das Tecnologias de Informação (TI) para que as tomadas de decisão na organização sejam corretas e mais eficientes, baseadas em ferramentas computacionais.
+
+
+
+
+
+
+
+
+
+				
+			           Planejamento Estratégico
+
+
+
+
+                                                  Sistemas de Informação
+
+
+
+
+								  hardware
+								  software  
+			             Planejamento das TI’s	               redes
+								  processos
+								  pessoal
+			               				   
+	    		
+								    
+			             Práticas de trabalho
+	      					
+				 
+                          
+Figura 1.2 - O posicionamento das TI’s dentro de uma organização
+
+
+De acordo com Poloni (2000, p. 30) “sistema de informação é qualquer sistema usado para prover informações - incluindo seu processamento - qualquer que seja sua utilização”. Deste modo, a TI é o veículo que difunde e irradia as informações de maneira rápida e eficiente. Então uma TI é o conjunto de software/hardware dos SI’s; assim, uma simples planilha eletrônica pode ser considerada uma TI, pois auxilia nas tomadas de decisão. Entretanto, mesmo podendo ser considerada uma TI, uma planilha eletrônica não satisfaz plenamente o gerente tomador de decisões, pois apesar de exibir a informação desejada não tem a capacidade de armazenar os dados de maneira conveniente e nem cruzá-los de modo a permitir informações de vários locais da empresa. O esquema da figura 1.2 mostra que as TI’s estão diretamente ligadas às práticas de trabalho numa organização, e o cruzamento de vários dados armazenados em vários locais é muito importante para os tomadores de decisões. 
+O esquema da figura 1.3 mostra como os profissionais envolvidos num SI atuam num ambiente de processamento de dados.
